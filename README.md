@@ -13,7 +13,7 @@ Once all questions have been answered, the password will pop up on the text box 
 
 Please see an example of the password generator below, expect to see my own tweaks :).
 
-![alt text](assets/images/screenshot.png)
+![alt text](Assets/images/screenshot.png)
 
 ## Credits
 
