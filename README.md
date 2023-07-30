@@ -1,4 +1,4 @@
-# Challenge 03: Password Generator
+# Password Generator
 
 ## Description
 
@@ -26,6 +26,6 @@ MIT License
 
 ## Links
 
-Deployed site: https://sabplpz.github.io/Challenge-03/
+Deployed site: https://sabplpz.github.io/password-generator/
 
 ---
